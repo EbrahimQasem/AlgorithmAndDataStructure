@@ -1,7 +1,7 @@
 /*  Name: <Ebrahim Qasem>
  *  COSC 311  FA19
  *  hw0912
- *  URL:  <your URL>
+ *  URL:  <https://github.com/EbrahimQasem/AlgorithmAndDataStructure/blob/master/SinglyLinkedList.java>
  *  
  *  NOTE:As instructed, I only added the insert function.
  *  The rest of code is given by instructor. 
